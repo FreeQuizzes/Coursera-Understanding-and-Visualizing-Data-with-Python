@@ -1,0 +1,15 @@
+1. Using information about the Cartwheel dataset from the previous assignments, answer the following questions.
+Is the relationship between ‘Height’ and ‘Wingspan’ linear?
+Answer: Yes
+
+2. Is the relationship between ‘Wingspan’ and ‘Height’ linear for each gender?
+Answer: Yes
+
+3. Is the interquartile range of ‘CWDistance’ similar to ‘Wingspan’?
+Answer: No
+
+4. Looking at the barplot of ‘Glasses’ and ‘CWDistance’, which glasses condition has a (slightly) larger estimate of cartwheel distance?
+Answer: Glasses-N
+
+5. Looking at the barplot of ‘Glasses’ and ‘CWDistance’ split by ‘Gender’, which glasses condition has a (slightly) larger estimate of cartwheel distance?
+Answer: The results are different for each gender.
