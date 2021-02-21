@@ -1,0 +1,15 @@
+1. copy and paste the code--> run --> see the answer-->mark the closest match
+
+import numpy as np
+np.random.seed(123)
+sample = [np.random.normal(100, 1) for _ in range(3)]
+print(sample)
+
+
+2. copy and paste the code--> run --> see the answer-->mark the closest match
+
+import numpy as np
+np.random.seed(123)
+population = np.arange(1, 100)
+sample = np.random.choice(population, 10)
+print(sample
